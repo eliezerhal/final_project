@@ -1,0 +1,19 @@
+.mybutton {
+    margin:auto 0 ;
+    margin-top:50% ;
+    transition: 0.3s;
+    display: table;
+    background-color: #8d5956;
+    color: #fff;
+    font-family: 'Alef', sans-serif;
+    font-size: 18px;
+    padding: 20px 60px;
+    margin: 40px auto ;
+    border-radius: 15px;
+
+}
+
+
+.mybutton:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
